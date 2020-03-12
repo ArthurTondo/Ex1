@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ex1</string>
+    <string name="valor">Valor</string>
+    <string name="hint">hint</string>
+    <string name="aplica_o_mensal">Aplicação mensal</string>
+    <string name="valor_em_r_ex_1700_00">Valor em R$. Ex: 1700.00</string>
+
+    <string name="todo">TODO</string>
+    <string name="ex_1000_00">Ex: 1000.00</string>
+    <string name="tempo_de_aplica_o">Tempo de aplicação</string>
+</resources>
